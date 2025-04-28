@@ -48,6 +48,8 @@ python auto_deploy.py --lemo
 
 或者，若使用二进制文件且已添加到 PATH：
 auto-deploy-helper lemo
+## 项目赞助
+本项目由 VTEXS 的 [免费开源项目免费vps计划]提供算力支持
 
 ## 贡献
 
